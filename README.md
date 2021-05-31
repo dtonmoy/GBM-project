@@ -12,5 +12,5 @@ Spatiotemporal-heterogeneity  of  glioblastoma  (GBM)  originating  from  the  g
 ## Scripts
 
 * Heatmap_1B_3A_Sup 2K.R ----> This will reproduce Figure 1B, 3A and Supplementary figure 2K
-* Bubble_plot_Sup_9.R ----> This will reproduce Supplementary figure 9
 * Complex_heatmap_1J_1K_2C_2D_2E_2F_3E_3F_3G_Sup_2G.R ----> This will reproduce Figure 1J, 1K, 2C, 2D, 2E, 2F, 3E, 3F, 3G and Supplementary figure 2G
+* Bubble_plot_Sup_9.R ----> This will reproduce Supplementary figure 9

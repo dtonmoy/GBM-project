@@ -24,8 +24,6 @@ mat = t(mat)
 pheatmap(mat,  show_colnames = T, 
          fontsize_row = 10, fontsize_col = 10,
          angle_col = 90,
-         clustering_distance_cols = 'euclidean',
-         clustering_distance_rows = 'euclidean',
          cluster_cols = F,
          cluster_rows = F,
          clustering_method = "complete",

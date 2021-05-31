@@ -30,6 +30,7 @@ pheatmap(mat,  show_colnames = T,
          color = inferno(100),
          cellwidth = 10, cellheight = 10, border_color = 'grey')
 
+
 ### Supplementary figure 2K
 mat = read.xlsx("Sup 2K.xlsx", rowNames = T)
 mat = t(mat)

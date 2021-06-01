@@ -18,4 +18,3 @@ ggplot(data, aes(x = -log10(padj), y = reorder(pathway,-log10(padj)),
   facet_grid(.~Category, scales = "fixed") +
   ylab("Hallmarks") +
   xlab("-log10 (adj. p-value)")
-  

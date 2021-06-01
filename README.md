@@ -16,5 +16,6 @@ Spatiotemporal-heterogeneity  of  glioblastoma  (GBM)  originating  from  the  g
 * fgsea.R ----> This will produce Figure 2B, 3B, 3C, 3D and Supplementary figure 2A, 2B, 2C, 2D, 2E, 2F, 3A, 3B, 3C, 3D
 * Scatterplot.R ----> This will produce Figure 6D
 * Correlation_matrix.R ----> This will produce Supplementary figure 1A and 1B
+* Bar_plots.r ----> This will produce Supplementary figure 6 barplots
 * Bubble_plot.R ----> This will produce Supplementary figure 9
 

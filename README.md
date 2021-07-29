@@ -12,7 +12,7 @@ Spatiotemporal-heterogeneity  of  glioblastoma  (GBM)  originating  from  the  g
 ## Scripts
 
 * Heatmap_inferno.R ----> This will produce Figure 1B, 3A and Supplementary figure 2K, 7E
-* Complex_heatmap.R ----> This will produce Figure 1J, 1K, 2C, 2D, 2E, 2F, 3E, 3F, 3G and Supplementary figure 2G
+* Complex_heatmap.R ----> This will produce Figure 1J, 1K, 2F, 2G, 2H, 2I, 3E, 3F, 3G and Supplementary figure 2G
 * fgsea.R ----> This will produce Figure 2B, 3B, 3C, 3D and Supplementary figure 2A, 2B, 2C, 2D, 2E, 2F, 3A, 3B, 3C, 3D
 * mRNAsi_heatmap.r ----> This will produce Figure 6A
 * Bar_jitter.R ----> This will produce Figure 6B
